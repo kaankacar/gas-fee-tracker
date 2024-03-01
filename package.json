@@ -1,0 +1,18 @@
+{
+  "name": "gas-fee-tracker",
+  "version": "1.0.0",
+  "description": "This package tracks the gas fees that are used in a specified wallet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "Kaan Kaçar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5"
+  }
+}
