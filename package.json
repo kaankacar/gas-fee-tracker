@@ -1,13 +1,15 @@
 {
   "name": "gas-fee-tracker-for-tea-testnet",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "This package tracks the gas fees that are used in a specified wallet.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "tea"
+    "tea",
+    "gas",
+    "transaction"
   ],
   "author": "Kaan Kaçar",
   "license": "ISC",
