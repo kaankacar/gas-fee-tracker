@@ -1,5 +1,5 @@
 {
-  "name": "gas-fee-tracker-for-tea-testnet",
+  "name": "gas-fee-tracker-by-kaan",
   "version": "2.0.1",
   "description": "This package tracks the gas fees that are used in a specified wallet.",
   "main": "index.js",
