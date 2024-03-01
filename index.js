@@ -39,3 +39,5 @@ const getGasUsedByAddress = async (address) => {
 readline.question('Please enter your wallet address: ', address => {
   getGasUsedByAddress(address).then(() => readline.close());
 });
+
+module.exports = { getGasUsedByAddress };

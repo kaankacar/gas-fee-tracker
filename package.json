@@ -1,6 +1,6 @@
 {
   "name": "gas-fee-tracker-by-kaan",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "This package tracks the gas fees that are used in a specified wallet.",
   "main": "index.js",
   "scripts": {
